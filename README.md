@@ -396,10 +396,8 @@ simpsons-quote-search/
 
 ## 👤 Autor
 
-**César Adrián Delgado Díaz**
-
-- 🌐 Portfolio: [tu-portfolio.com](https://tu-portfolio.com)
-- 💼 LinkedIn: [linkedin.com/in/cesar-delgado-diaz](https://www.linkedin.com/in/cesar-delgado-diaz)
+- 👤 Autor : **César Adrián Delgado Díaz**
+- 💼 LinkedIn: [linkedin.com/in/cesar-delgado-diaz](linkedin.com/in/cesar-delgado-diaz)
 - 🐙 GitHub: [github.com/cesar530](https://github.com/cesar530)
 
 ## 📄 Licencia
